@@ -1,12 +1,14 @@
-
+[![MasterHead](https://user-images.githubusercontent.com/90236635/232446433-d5540fa2-fe28-4bb8-b929-cdb51fe61336.gif)]
 <h1 align="center">Hi 👋, I'm Ravi Ranjan</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
-
+<p>I'm Final year student From National Institute of Tecnology</p>
+<p>My Department is Computer Engineering</p>
+<img align="right" alt="Coding" width="400" height= "300" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExeDltNGdmNTRpNTZhd2VxMjEyNWluY2hwN2dnOHBlZmdpcm1iZGsyNCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/lP8xu5t2DLGG045H8F/giphy.webp">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=raviranjan20002&label=Profile%20views&color=0e75b6&style=flat" alt="raviranjan20002" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=raviranjan20002" alt="raviranjan20002" /></a> </p>
 
-- 🌱 I’m currently learning **Mobile Development**
+- 🌱 I’m currently learning **Backend_Development**
 
 - 💬 Ask me about **react**
 
